@@ -11,9 +11,12 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Cameron is a full stack engineer with experience working on
+            developing apis and user interfaces in a greenfield fintech project
+            environment. Having previous experience outside of developing
+            Cameron brings a plethora of project management, team leadership and
+            business side problem solving skills from previous roles within the
+            armed forces and construction project management.
           </p>
           <div className="flex justify-center">
             <a
@@ -30,11 +33,11 @@ export default function About() {
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div className="rounded-full max-h-lg">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center rounded-tr-extraLarge rounded-bl-extraLarge"
             alt="hero"
-            src="./pngwing.com.png"
+            src="./coding.svg"
           />
         </div>
       </div>
