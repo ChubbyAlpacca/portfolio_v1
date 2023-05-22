@@ -5,6 +5,7 @@ import Navbar from "./components/navbar";
 import Projects from "./components/projects";
 import Skills from "./components/skills";
 import Testimonials from "./components/testimonials";
+import JumpToTop from "./components/jumpToTop";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
       <Skills />
       <Testimonials />
       <Contact />
+      <JumpToTop />
     </main>
   );
 }

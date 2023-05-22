@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <section id="contact" className="relative">
+    <section id="contact" className="content-center">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap content-center">
         <form
           netlify
@@ -13,8 +13,8 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            Want to work with me on future projects? Feel free to use the
+            contact box below and I will get back to you!
           </p>
           <div className="content-center">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

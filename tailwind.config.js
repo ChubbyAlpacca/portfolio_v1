@@ -1,14 +1,8 @@
 module.exports = {
   theme: {
     extend: {
-      colors: {
-        nintendoScheme: {
-          darkGrey: "#a5a2a2",
-          lightGrey: "#e5e5e5",
-          white: "#ffffff",
-          red: "#dd2020",
-          black: "#0d0c0c",
-        },
+      borderRadius: {
+        extraLarge: "12rem",
       },
       fontFamily: {
         "press-start": ['"Press Start 2P"', "cursive"],
