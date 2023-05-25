@@ -9,7 +9,7 @@ import JumpToTop from "./components/jumpToTop";
 
 export default function App() {
   return (
-    <main className="text-black bg-nintendoScheme-lightGray ">
+    <main className="text-black bg-gray-200">
       <Navbar />
       <About />
       <Projects />
