@@ -15,9 +15,12 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Below are some filler projects to demonstrate the ability to present
+            a dynamic list of objects in a nice UX format. Why don't you have
+            your own examples Cam? Well because I am working on some suitable
+            personal projects as my industry is extremely strict on me
+            disclosing current projects! Check back in soon and you will be
+            dumbfounded with my full stack prowess!
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

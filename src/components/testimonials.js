@@ -10,6 +10,10 @@ export default function Testimonials() {
         <h1 className="sm:text-4xl text-3xl font-medium title-font text-red-500 mb-12">
           Client Testimonials
         </h1>
+        <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          Look it's the same as the projects.... if you've worked with me, let
+          me know I can add (hopefully) a kind word here!
+        </p>
         <div className="flex flex-wrap m-4">
           {testimonials.map((testimonial) => (
             <div className="p-4 md:w-1/2 w-full">
