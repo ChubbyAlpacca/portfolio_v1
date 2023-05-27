@@ -72,7 +72,6 @@ export default function Contact() {
             <label
               htmlFor="message"
               className="leading-7 text-sm text-gray-400 rounded"
-              className="leading-7 text-sm text-gray-400 rounded"
             >
               Message
             </label>
